@@ -8,5 +8,4 @@ title: 'Khuê ơi, tớ là Hùng đây. bạn có thích tớ khum?? 😙',
     mess: 'Tớ biết mà 🥰. tớ cũng thích bạn 😘😘',
     messDesc: 'Khuê ơi, bạn làm người iu tớ nhé <3,
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100044665072108
-}
+    messLink: 'https://www.facebook.com/
